@@ -1,0 +1,85 @@
+body {
+    background-color: #111111;
+}
+
+.welcomegif {
+    padding-left: 350px;
+    padding-bottom: 15px;
+}
+
+.widget2 {
+    padding-left: 210px;
+    padding-bottom: 35px;
+}
+
+.widget3 {
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+#loader {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    overflow: visible;
+    background: url("../img/preloader.gif") no-repeat center center;
+}
+
+.widget1 {
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.cefacigif {
+    padding-left: 350px;
+}
+
+.if1 {
+    padding-left: 15px;
+    padding-bottom: 25px;
+}
+
+.if2 {
+    padding-left: 22px;
+    padding-bottom: 25px;
+}
+
+.if3 {
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+.estifericitgif {
+    padding-left: 350px;
+}
+
+.fbidancingif {
+    padding-left: 260px;
+}
+
+.copyright {
+    color: #ffff;
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.scyte-footer {
+    padding-left: 500px;
+}
+
+.instagram-footer {
+    padding-left: 100px;
+}
+
+.discord-footer {
+    padding-left: 100px;
+}
